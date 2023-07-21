@@ -1,0 +1,3 @@
+/home/mateusz/IdeaProjects/PROJECTC+++/cmake-build-debug/CMakeFiles/PROJECTC___.dir
+/home/mateusz/IdeaProjects/PROJECTC+++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mateusz/IdeaProjects/PROJECTC+++/cmake-build-debug/CMakeFiles/rebuild_cache.dir

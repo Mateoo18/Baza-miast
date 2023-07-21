@@ -1,0 +1,30 @@
+Projekt c++
+program stworzony na podstawie klas. Dzieki programowi mozemy obslugiwac i przechowywac informacje dotyczące miast i wsi. Program umozliwia nam wypisanie najkrotszej drogi pomiedzy miastami i wsi. Ponadto, ma on mozliwosc sprawdzenia czy dane miasto i wies sa ze soba zaprzyjaznione- jezeli tak to moga uzyskiwac od siebie informacje poufne.
+Instrukcja obslugi:
+aby uruchomic program wystarczy w terminalu wpisac make a nastepnie ./output 
+Zeby uruchomic dane funkcje programu nalezy klikac odpowiednie liczby:
+
+1-dodanie miasta do bazy
+podanie odpowiednio: nazwa miasta, ilosc mieszkancow, wojewodztwo, budzet
+
+2-dodanie wsi do bazy
+podanie odpowiednio: nazwa miasta, ilosc mieszkancow, wojewodztwo, budzet
+
+3-podanie miasta i wsi i ktore sa w przyjazni
+nalezy wpisac id miast i wsi
+
+4-sprawdzenie czy miasto i wies sa w przyjazni-czy moga pobierac od siebie poufne dane
+nalezy wpisac id miasta i wsi
+
+5-sprawdzenie w jakim wojewodztwie znajduje sie miasto lub wies
+podanie id miasta
+
+6-sprawdzenie najktrotsza droge pomiedzy dwoma miastami
+podanie ilosc miast,ilosc drog miedzy nimi
+nastepnie podanie id miasta lub wsi oraz obciazenie pomiedzy trasą
+podanie miasta pozcatkowego z ktorego chce sie jechac i podanie id miasta do ktorego chce sie dojechac
+7-sprawdzenie czy miasta maja taki sam budzet
+podanie ID miast
+8-zakoncenie programu
+
+
